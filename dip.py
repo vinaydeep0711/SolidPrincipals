@@ -28,7 +28,7 @@ if __name__ == '__main__':
 
 
 
-"Fix using a interface class"
+"Fix using an interface class"
 
 from abc import abstractmethod, ABC
 
